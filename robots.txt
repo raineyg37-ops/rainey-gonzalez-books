@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://raineyg37-ops.github.io/rainey-gonzalez-books/sitemap.xml
